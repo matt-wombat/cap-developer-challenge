@@ -1,0 +1,16 @@
+{
+  "name": "cap-developer-challenge",
+  "version": "0.0.1",
+  "description": "CAP Developer Challen ge",
+  "dependencies": {
+    "@sap/cds": "^7",
+    "@sap/cds-dk": "^7",    
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
