@@ -4,7 +4,7 @@
 
 * [x] Week 1: <https://groups.community.sap.com/t5/application-development/sap-developer-challenge-sap-cloud-application-programming-model/m-p/270028/thread-id/1809>
 * [x] Week 2: <https://groups.community.sap.com/t5/application-development/sap-developer-challenge-sap-cloud-application-programming-model/td-p/271512>
-* [ ] Week 3: <https://groups.community.sap.com/t5/application-development/sap-developer-challenge-sap-cloud-application-programming-model/m-p/273060>
+* [x] Week 3: <https://groups.community.sap.com/t5/application-development/sap-developer-challenge-sap-cloud-application-programming-model/m-p/273060>
 * [ ] Week 4: <https://groups.community.sap.com/t5/application-development/sap-developer-challenge-sap-cloud-application-programming-model/td-p/274851>
 
 ## TODO
@@ -15,8 +15,8 @@
 * [x] <https://cap.cloud.sap/docs/guides/domain-modeling>
 * [x] <https://cap.cloud.sap/docs/cds/>
 * [ ] <https://cap.cloud.sap/docs/advanced/fiori>
-* [ ] <https://cap.cloud.sap/docs/guides/providing-services#adding-custom-logic>
-* [ ] <https://cap.cloud.sap/docs/node.js/core-services#implementing-services>
+* [x] <https://cap.cloud.sap/docs/guides/providing-services#adding-custom-logic>
+* [x] <https://cap.cloud.sap/docs/node.js/core-services#implementing-services>
 * [ ] <https://cap.cloud.sap/docs/advanced/performance-modeling#calculated-fields>
 
 # Getting Started
@@ -45,6 +45,8 @@ File or Folder | Purpose
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
 
+# Testing
 
+use test.http. Requires VS Code Extension "REST Client".
 
 
