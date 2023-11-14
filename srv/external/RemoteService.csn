@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "creator": "cds-dk 4.8.2"
+  },
+  "$version": "2.0",
+  "definitions": {
+    "RemoteService.Players": {
+      "kind": "entity",
+      "@cds.persistence.skip": true,
+      "elements": {
+        "name": {
+          "key": true,
+          "type": "cds.LargeString"
+        }
+      }
+    },
+    "RemoteService": {
+      "kind": "service",
+      "@cds.external": true
+    }
+  }
+}

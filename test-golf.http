@@ -1,4 +1,4 @@
-POST http://localhost:4004/browse/Holes
+POST http://localhost:4004/browse-golf/Holes
 Content-Type: application/json
 
 {

@@ -1,10 +1,10 @@
 {
   "name": "cap-developer-challenge",
   "version": "0.0.1",
-  "description": "CAP Developer Challen ge",
+  "description": "CAP Developer Challenge",
   "dependencies": {
     "@sap/cds": "^7",
-    "@sap/cds-dk": "^7",    
+    "@sap/cds-dk": "^7",
     "express": "^4"
   },
   "devDependencies": {
@@ -12,5 +12,13 @@
   },
   "scripts": {
     "start": "cds-serve"
+  },
+  "cds": {
+    "requires": {
+      "RemoteService": {
+        "kind": "odata",
+        "model": "srv\\external\\RemoteService"
+      }
+    }
   }
 }
